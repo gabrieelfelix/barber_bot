@@ -1,0 +1,12 @@
+name: barber_bot
+description: Bot para agendamentos na barbearia
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  shelf: ^1.4.0
+  http: ^1.1.0
+  gsheets: ^0.4.0
+  dotenv: ^4.0.1
